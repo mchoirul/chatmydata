@@ -1,0 +1,36 @@
+Custid,Nasabah,Product_Name,Location, Product_Category,Saldo_Average,Saldo_Akhir
+1,Mickey Mouse,Kredit UKM1,Surabaya,Pembiayaan,999,1599
+2,Donald Duck,Kredit Motor 1,Jakarta,Pembiayaan,999,1299
+3,Goofy,Kredit Mobil 1,Surabaya,Pembiayaan,199,399
+4,Minnie Mouse,Tabungan Muda1,Bandung,Simpanan,999,1299
+5,Daisy Duck,Tabungan Kerja 3,Bandung,Simpanan,799,999
+6,Bugs Bunny,Tabungan Pensiun Utama,Medan,Simpanan,699,1499
+7,Daffy Duck,Kredit UKM1,Makasar,Pembiayaan,1199,1599
+8,Elmer Fud,Kredit Motor 1,Makasar,Pembiayaan,399,699
+9,Porky Pig,Kredit Mobil 1,Surabaya,Pembiayaan,999,1099
+10,Sylvester the Cat,Tabungan Muda1,Jakarta,Simpanan,1099,1499
+11,Tweety Bird,Tabungan Kerja 3,Bandung,Simpanan,1099,2099
+12,Yosemite Sam,Tabungan Pensiun Utama,Palembang,Simpanan,899,1199
+13,Elmer Fud,Kredit UKM1,Surabaya,Pembiayaan,1499,2099
+14,Porky Pig,Kredit Motor 1,Semarang,Pembiayaan,599,1099
+15,Daffy Duck,Kredit Mobil 1,Bandung,Pembiayaan,399,599
+16,Tweety Bird,Tabungan Muda1,Makasar,Simpanan,299,999
+17,Yosemite Sam,Tabungan Kerja 3,Makasar,Simpanan,1399,1999
+18,Bugs Bunny,Tabungan Kerja 4,Makasar,Simpanan,3499,3999
+19,Sylvester the Cat,Tabungan Kerja 5,Makasar,Simpanan,1399,1599
+20,Minnie Mouse,Tabungan Kerja 6,Surabaya,Simpanan,899,2499
+21,Daisy Duck,Tabungan Kerja 7,Surabaya,Simpanan,699,999
+22,Donald Duck,Tabungan Kerja 8,Surabaya,Simpanan,1399,1999
+23,Mickey Mouse,Kredit Usaha Besar,Medan,Pembiayaan,499,999
+24,Goofy,Tabungan Kerja 10,Medan,Simpanan,1499,1999
+25,Elmer Fud,Tabungan Kerja 11,Medan,Simpanan,199,299
+26,Porky Pig,Kredit Usaha Besar,Bandung,Pembiayaan,2099,2499
+27,Daffy Duck,Tabungan Kerja 13,Bandung,Simpanan,399,499
+28,Tweety Bird,Kredit Usaha Besar,Bandung,Pembiayaan,399,1099
+29,Sylvester the Cat,Tabungan Pensiun Utama,Bandung,Simpanan,899,1999
+30,Yosemite Sam,Kredit UKM1,Jakarta,Pembiayaan,1799,1999
+31,Bugs Bunny,Kredit Motor 1,Jakarta,Pembiayaan,799,899
+32,Minnie Mouse,Kredit Mobil 1,Jakarta,Pembiayaan,1199,1499
+33,Daisy Duck,Tabungan Muda1,Semarang,Simpanan,1099,1299
+34,Donald Duck,Tabungan Kerja 3,Semarang,Simpanan,2099,2599
+35,Goofy,Tabungan Kerja 4,Semarang,Simpanan,399,799
