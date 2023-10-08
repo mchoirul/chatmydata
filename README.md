@@ -5,6 +5,10 @@ Components used:
 - Langchain
 - Streamlit
 
+Credit:
+- [langchain_csv](https://github.com/Ngonie-x/langchain_csv/tree/main)
+- [chartgpt](https://github.com/chatgpt/chart)
+
 <img src="https://github.com/mchoirul/chatmydata/blob/main/screenshots/chadata6.png" width="600" /> 
 
 ## Use case
