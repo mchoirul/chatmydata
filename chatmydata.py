@@ -212,5 +212,3 @@ with st.sidebar:
     if reset_button:
         st.session_state.messages = []
         
-    st.write("cp: choirul@gmail.com")
-        
